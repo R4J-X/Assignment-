@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main() {
     int c1=0,c2=0;
-    char str[10],*p;
+    char str[50],*p;
     printf("\nEnter String=");
     gets(str);
     p=str;
@@ -10,7 +10,7 @@ int main() {
         if (*p=='A'||*p=='E'||*p=='I'||*p=='O'||*p=='U'|| 
             *p=='a'||*p=='e'||*p=='i'||*p=='o'||*p=='u') {
             c1++;
-        } else {
+        } else if(isalpha(*p)) {
             c2++;
         }
         p++;
