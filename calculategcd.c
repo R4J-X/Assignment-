@@ -3,7 +3,7 @@
 int gcd(int a,int b);
 void main() {
     int a,b,c;
-    printf("\nEnter the two numbers (a = and b =):\n");
+    printf("\nEnter the two numbers (a and b):\n");
     printf("a=");
     scanf("%d",&a);
     printf("b=");
