@@ -1,3 +1,4 @@
+//⁠Write a program to count the number of vowels and consonants in a string using pointers.
 #include <stdio.h>
 int main() {
     int c1=0,c2=0;

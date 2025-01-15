@@ -1,3 +1,5 @@
+//Write a program to find the length of a given string using pointers. Ex: Input: "Hello" Output: 5
+
 #include <stdio.h>
 int main() {
     char str[100];

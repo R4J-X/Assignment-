@@ -1,3 +1,4 @@
+//Write a function to calculate the GCD (Greatest Common Divisor) of two numbers using recursion.Ex: Input: a=56, b=98 Output: GCDis 14.
 #include<stdio.h>
 int gcd(int a,int b);
 void main() {

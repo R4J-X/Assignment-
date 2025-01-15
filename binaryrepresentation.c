@@ -1,3 +1,5 @@
+//Write a program to print the binary representation of a number using loops Example: Input = 5, Output 101.
+
 #include <stdio.h>
 void printBinary(int n) {
     int i, started = 0;

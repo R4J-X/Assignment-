@@ -1,3 +1,5 @@
+// Write a program to print a diamond-shaped pattern using loops. Ex: Input: n = 5 Output:
+
 #include <stdio.h>
 int main() {
     int n;

@@ -1,3 +1,5 @@
+//Write separate functions for addition, subtraction, multiplication, and division. Call these functions from a menu-driven program.
+
 #include <stdio.h> 
 int main(void) {
     int choice,input1,input2; 
